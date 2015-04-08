@@ -22,8 +22,6 @@ if ( ! function_exists( 'write_log' ) ) {
 	/**
 	 * Write in the log.
 	 *
-	 * Require Log Viewer plugin or others.
-	 *
 	 * @since 1.0.0
 	 *
 	 * @param mixed $log The content to log.
